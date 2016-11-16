@@ -18,8 +18,7 @@ import '@angular/router';
 import '@angularclass/hmr';
 
 // RxJS
-import 'rxjs/add/operator/map';
-import 'rxjs/add/operator/mergeMap';
+import './app/rxjs-operators';
 
 if ('production' === ENV) {
   // Production

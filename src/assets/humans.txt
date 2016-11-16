@@ -3,13 +3,7 @@
 
 # TEAM
 
-  <name> -- <role> -- <twitter>
-
-# THANKS
-
-  <name>
-  PatrickJS -- @gdi2290
-  AngularClass -- @AngularClass
+  Clément Flodrops -- Lead Developer
 
 # TECHNOLOGY COLOPHON
 
